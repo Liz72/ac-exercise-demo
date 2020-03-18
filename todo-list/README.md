@@ -1,5 +1,5 @@
 # Todo List
-Link: file:///home/enchi/Programing/AC/JS-term2/ac-exercise-demo/todo-list/todo-list.html
+Link: https://liz72.github.io/ac-exercise-demo/
 
 ## Features
 * Add new tasks into list
